@@ -1,0 +1,4 @@
+Username: amadoxxo
+Password: 3VF1od2CL7rvVLhI
+
+MongoDBAtlas: mongodb+srv://amadoxxo:3VF1od2CL7rvVLhI@cluster0.1wpjh.mongodb.net/cafe
